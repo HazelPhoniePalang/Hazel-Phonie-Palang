@@ -43,7 +43,6 @@ I build things for the web — clean UIs, functional systems, and everything in 
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/p8AFc5Gd)
 [![Instagram](https://img.shields.io/badge/@hnrhzle-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@hnrhzle)
 [![Gmail](https://img.shields.io/badge/hazelphoniepalang@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hazelphoniepalang@gmail.com)
 
