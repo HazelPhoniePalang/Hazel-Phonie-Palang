@@ -23,11 +23,11 @@
 ╭──────────────────────────────────────────╮
 │  ♡  name     : Hazel Phonie Palang       │
 │  ✦  degree   : BS Information Technology │
-│  🌸  year     : 2nd Year                  │
-│  💻  focus    : Web Development           │
-│  ✨  vibe     : Design meets Code         │
-│  🌷  status   : [ Learning & Building ]   │
-│  📍  location : Davao, PH  🇵🇭           │
+│  🌸  year     : 2nd Year                 │
+│  💻  focus    : Web Development          │
+│  ✨  vibe     : Design meets Code        │
+│  🌷  status   : [ Learning & Building ]  │
+│  📍  location : Davao, PH  🇵🇭            │
 ╰──────────────────────────────────────────╯
 ```
 
@@ -87,15 +87,14 @@ I build things for the web — clean UIs, functional systems, and everything in 
 
 <div align="center">
 
- <img height="180" src="https://github-readme-stats.vercel.app/api?username=HazelPhoniePalang&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&bg_color=fff0f5&title_color=e91e8c&icon_color=f06292&text_color=ad1457" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazelPhoniePalang&layout=compact&theme=rose_pine&hide_border=true&bg_color=fff0f5&title_color=e91e8c&text_color=ad1457" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=HazelPhoniePalang&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&bg_color=fff0f5&title_color=e91e8c&icon_color=f06292&text_color=ad1457" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazelPhoniePalang&layout=compact&theme=rose_pine&hide_border=true&bg_color=fff0f5&title_color=e91e8c&text_color=ad1457" />
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=HazelPhoniePalang&theme=rose_pine&hide_border=true&background=fff0f5&stroke=f48fb1&ring=e91e8c&fire=f06292&currStreakLabel=ad1457&sideLabels=ad1457&currStreakNum=880e4f&sideNums=880e4f&dates=c2185b" />
+<img src="https://streak-stats.demolab.com?user=HazelPhoniePalang&theme=rose_pine&hide_border=true&background=fff0f5&stroke=f48fb1&ring=e91e8c&fire=f06292&currStreakLabel=ad1457&sideLabels=ad1457&currStreakNum=880e4f&sideNums=880e4f&dates=c2185b" />
 
 </div>
-
 ---
 
 ## 🏆 achievements & milestones
